@@ -47,46 +47,31 @@ public class Encuesta {
                 Random r = new Random();
                 // Para si consume alcohol o no
                 respConsumir = r.nextInt(3) + 1;  // Entre 0 y 3 excluido, más 1, es decir, del 1 al 3 ambos incluidos.
-                switch (respConsumir) {
-                    case 1:
+                if (respConsumir == 1 || respConsumir == 3) {
+                    if (respConsumir == 1) {
                         consumir = "Sí.";
                         contadorConsumirSi++;
-                        break;
-                    case 2:
-                        consumir = "No, nunca.";
-                        contadorConsumirNo++;
-                        break;
-                    case 3:
+                    } else {
                         consumir = "No, pero he consumido en algún momento.";
                         contadorConsumirAlguna++;
-                }
-                if (respConsumir == 2) {
-                    frecuencia = "Nunca.";
-                    contadorFrecuenciaNunca++;
-                    cuanto = "Nunca.";
-                    contadorCuanto0++;
-                } else {
+                    }
                     // Para la frecuencia de consumo
-                    respFrecuencia = r.nextInt(4) + 1;  // Entre 0 y 4 excluido, más 1, es decir, del 1 al 4 ambos incluidos.
+                    respFrecuencia = r.nextInt(3) + 1;  // Entre 0 y 4 excluido, más 1, es decir, del 1 al 4 ambos incluidos.
                     switch (respFrecuencia) {
                         case 1:
-                            frecuencia = "Nunca.";
-                            contadorFrecuenciaNunca++;
-                            break;
-                        case 2:
                             frecuencia = "En ocasiones.";
                             contadorFrecuenciaOcasiones++;
                             break;
-                        case 3:
+                        case 2:
                             frecuencia = "Los fines de semana.";
                             contadorFrecuenciaFindes++;
                             break;
-                        case 4:
+                        case 3:
                             frecuencia = "A diario.";
                             contadorFrecuenciaDiario++;
                             break;
                     }
-                    // Para la frecuencia de consumo
+                    // Para la cantidad de consumo
                     respCuanto = r.nextInt(3) + 1;  // Entre 0 y 3 excluido, más 1, es decir, del 1 al 3 ambos incluidos.
                     switch (respCuanto) {
                         case 1:
@@ -102,6 +87,13 @@ public class Encuesta {
                             contadorCuanto5++;
                             break;
                     }
+                } else if (respConsumir == 2) {
+                    consumir = "No, nunca.";
+                    contadorConsumirNo++;
+                    frecuencia = "Nunca.";
+                    contadorFrecuenciaNunca++;
+                    cuanto = "Nunca.";
+                    contadorCuanto0++;
                 }
                 cadena1 = "Persona " + i + "\n"
                         + "a) ¿Consumes alcohol? " + consumir + "\n"
@@ -120,7 +112,7 @@ public class Encuesta {
                     + "Findes: " + contadorFrecuenciaFindes + "\n"
                     + "A diario: " + contadorFrecuenciaDiario + "\n"
                     + "Consumiciones al días:\n"
-                    + "Cero: "+contadorCuanto0+"\n"
+                    + "Cero: " + contadorCuanto0 + "\n"
                     + "Una o dos: " + contadorCuanto12 + "\n"
                     + "Tres o cuatro: " + contadorCuanto34 + "\n"
                     + "Cinco o más: " + contadorCuanto5 + "\n\n";
