@@ -1,0 +1,600 @@
+Persona 1
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 2
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 3
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 4
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 5
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 6
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 7
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 8
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 9
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 10
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 11
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 12
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 13
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 14
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 15
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 16
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 17
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 18
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 19
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 20
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 21
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 22
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 23
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 24
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 25
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 26
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 27
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 28
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 29
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 30
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 31
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 32
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 33
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 34
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 35
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 36
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 37
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 38
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 39
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 40
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 41
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 42
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 43
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 44
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 45
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 46
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 47
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 48
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 49
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 50
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 51
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 52
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 53
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 54
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 55
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 56
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 57
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 58
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 59
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 60
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 61
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 62
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 63
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 64
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 65
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 66
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 67
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 68
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 69
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 70
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 71
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 72
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 73
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 74
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 75
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 76
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 77
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 78
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 79
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 80
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 81
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 82
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 83
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 84
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 85
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 86
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 87
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 88
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 89
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 90
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 91
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 92
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 93
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 94
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 95
+a) ¿Consumes alcohol? Sí.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Los fines de semana.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 96
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" A diario.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Cinco más.
+
+
+Persona 97
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 98
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Tres o cuatro.
+
+
+Persona 99
+a) ¿Consumes alcohol? No, nunca.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" Nunca.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
+Persona 100
+a) ¿Consumes alcohol? No, pero he consumido en algún momento.
+b) ¿Con qué frecuencia consumes una bebida "alcohólica?" En ocasiones.
+c) Cuando consumes alcohol ¿Cuántas consumicioneshaces al día? Una o dos.
+
+
